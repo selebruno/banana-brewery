@@ -1,22 +1,22 @@
 export const socialIcons = [
   {
     name: "instagram",
-    url: "https://instagram.com",
+    url: "https://www.instagram.com/bananabrewery",
   },
   {
     name: "tiktok",
-    url: "https://tiktok.com",
+    url: "https://www.tiktok.com/@bananabrewery",
   },
   {
     name: "x",
-    url: "https://x.com",
+    url: "https://x.com/bananabrewery",
   },
   {
     name: "youtube",
-    url: "https://youtube.com",
+    url: "https://www.youtube.com/@BananaBrewery",
   },
   {
     name: "twitch",
-    url: "https://twitch.com",
+    url: "https://www.twitch.tv/bananabrewery",
   },
 ];
