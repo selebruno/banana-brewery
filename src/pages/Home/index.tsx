@@ -5,7 +5,7 @@ import BananaLogo from "assets/banana.png";
 import { socialIcons } from "constants/socialIcons";
 
 const Container = styled.div`
-  padding: 5rem;
+  padding: 3rem;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -19,7 +19,7 @@ const Container = styled.div`
 const SocialIconsContainer = styled.span`
   display: flex;
   flex-direction: column;
-  padding-top: 2rem;
+  padding-top: 1rem;
 
   @media screen and (min-width: 768px) {
     flex-direction: row;
@@ -27,7 +27,7 @@ const SocialIconsContainer = styled.span`
 `;
 
 const SocialIconWrapper = styled.div`
-  margin: 8px;
+  margin: 4px;
 `;
 
 export default function Home() {
